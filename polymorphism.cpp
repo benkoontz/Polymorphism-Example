@@ -1,5 +1,9 @@
 #include <iostream>
 
+// Pretend the program is a game with enemies. There can be many types of enemies such as ninjas and monsters.
+// The ninjas and monsters can both attack. The ninja and monster classes are both using the information from
+// the Enemy class since the ninja and monster classes both represent enemies.
+
 
 using namespace std;
 
